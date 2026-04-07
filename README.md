@@ -18,7 +18,7 @@
 
 - B.S. in Data Science, Kwangwoon University (2030)
 
---
+---
 
 ## Internship Experience
 
