@@ -40,6 +40,13 @@
 
 ---
 
+## Awards
+
+- Grand Prize @ Likelion Univ. 14th Ideathon
+- Grand Prize @ Likelion Univ. 14th Hackathon
+
+---
+
 ## Certifications
 
 - 정보처리기사  
