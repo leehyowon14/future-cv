@@ -24,6 +24,7 @@
 ## Internship Experience
 
 - Backend Intern @ Carrot (2029)
+- MLOps Intern @ anthropic(2030)
 
 ---
 
